@@ -4,4 +4,4 @@ Desc
 
 ## Canonical Source
 
-Original repo [https://git.knowbl.co/dev/accounting](https://git.knowbl.co/dev/accounting)
+Original source repo [https://git.knowbl.co/dev/accounting](https://git.knowbl.co/dev/accounting)

@@ -1,6 +1,6 @@
 # Accounting
 
-Desc
+PHP personal accounting software.
 
 ## Invoice
 
